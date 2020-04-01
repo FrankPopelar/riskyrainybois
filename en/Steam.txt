@@ -1,0 +1,26 @@
+{
+  "strings":
+  {
+    "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "appoint head gamer",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "gib id",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "id giben",
+    "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "enter stinky",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "stinkified",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "bad stinky >:/",
+    "STEAM_LOBBY_PUBLIC": "randos :o",
+    "STEAM_LOBBY_PRIVATE": "frimds :)",
+    "STEAM_LOBBY_FRIENDSONLY": "only fronmds :)",
+    "STEAM_LOBBY_INVISIBLE": "sneaky beaky like",
+    "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "not a member of this gaming organization",
+    "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "finding randos",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "searching for goons",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} more goons required",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} sufficient goons {2}",
+    "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "not looking around",
+    "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "get me in there boiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+    "STEAM_LOBBY_STATUS_STARTING_SERVER": "guess who's comin in",
+	"STEAM_LOBBY_STATUS_GAME_STARTING": "you are comin in",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "update your game idiot :/",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "fucking update hte game :(((((((((((((\nYours={0}\nTheirs={1}",
+  }
+}
