@@ -342,7 +342,7 @@
 	"ITEM_THORNS_PICKUP" : "Retaliate in a burst of razors on taking damage.",
 	"ITEM_THORNS_DESC" : "Getting hit causes you to explode in a burst of razors, dealing <style=cIsDamage>160% damage</style>. Hits up to <style=cIsDamage>5</style> <style=cStack>(+2 per stack)</style> targets in a <style=cIsDamage>25m</style> <style=cStack>(+10m per stack)</style> radius",
 	
-	"ITEM_REGENONKILL_NAME" : "mmmmmmmmmm beef",
+	"ITEM_REGENONKILL_NAME" : "he eat a meat :)",
 	"ITEM_REGENONKILL_PICKUP" : "Regenerate health after killing an enemy.",
 	"ITEM_REGENONKILL_DESC": "Increases<style=cIsHealing> base health regeneration</style> by <style=cIsHealing>+2 hp/s</style> for <style=cIsUtility>3s</style> <style=cStack>(+3s per stack)</style> after killing an enemy.",
 	
