@@ -7,7 +7,7 @@
 		"BROTHER_SPAWN_PHASE1_1" : "Pray.",
 		"BROTHER_SPAWN_PHASE1_2" : "Beg.",
 		"BROTHER_SPAWN_PHASE1_3" : "Die.",
-		"BROTHER_SPAWN_PHASE1_4" : "Be slaughtered.",
+		"BROTHER_SPAWN_PHASE1_4" : "bitch",
 
 		"BROTHER_DAMAGEDEALT_1" : "Bleed.",
 		"BROTHER_DAMAGEDEALT_2" : "Now is the time for fear.",
