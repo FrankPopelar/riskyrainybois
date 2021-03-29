@@ -1,0 +1,17 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "hel",
+	"DIFFICULTY_BAR_1": "hell",
+	"DIFFICULTY_BAR_2": "very hell",
+	"DIFFICULTY_BAR_3": "super hell",
+	"DIFFICULTY_BAR_4": "extreme hell",
+	"DIFFICULTY_BAR_5": "hell is comin",
+	"DIFFICULTY_BAR_6": "f i n a l h e l l",
+	"DIFFICULTY_BAR_7": "THE REAL FINAL HELL",
+	"DIFFICULTY_BAR_8": "T R U E H E L L",
+	"DIFFICULTY_BAR_9": "AAAAAAAAAAAAAAAAAAAAAAA",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage</style> {0}",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Lv.</style> {0}",
+	}
+}

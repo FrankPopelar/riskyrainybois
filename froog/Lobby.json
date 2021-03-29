@@ -1,0 +1,9 @@
+{
+	"strings": 
+	{
+		"LOBBY_DEFAULT_NAME_FORMAT": "{0}'s house",
+		"LOBBY_CONTROL_PANEL_NAME": "house",
+		"LOBBY_CONTROL_PANEL_LEAVE": "go away >:(",
+		"LOBBY_CONTROL_PANEL_CREATE": "play with frinds"
+	}
+}

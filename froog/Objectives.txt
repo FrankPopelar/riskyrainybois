@@ -1,0 +1,31 @@
+{
+	"strings":
+	{
+		"OBJECTIVE_TITLE" : "to do list:",
+		"OBJECTIVE_FIND_TELEPORTER": "wheres the <style=cDeath>fuking teleporter<sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter zone!</style> ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "lets blow this <style=cDeath>popsicle stand <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_DEFEAT_BOSS": "he must die",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "pay your membership fees({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "train with {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Time Crystals</color> ({0}/{1})",
+		"OBJECTIVE_CLEAR_ARENA" : "change your ac filters ({0}/{1})",
+		"OBJECTIVE_ARENA_CHARGE_CELL" : "oh my god there's so much dust ({0}%)",
+		"OBJECTIVE_SELFDESTRUCT_ESCAPE" : "moon's haunted",
+		"OBJECTIVE_MOON_BATTERY_SOUL" : "appraise <style=cLunarObjective>mithrix's art project of Soul</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_SOUL_OOB": "look at <style=cLunarObjective>mithrix's art project of Soul!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_BLOOD" : "appraise <style=cLunarObjective>mithrix's art project of Blood</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_BLOOD_OOB": "look at <style=cLunarObjective>mithrix's art project of Blood!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN" : "appraise <style=cLunarObjective>mithrix's art project of Design</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_DESIGN_OOB": "look at <style=cLunarObjective>mithrix's art project of Design!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS" : "appraise <style=cLunarObjective>mithrix's art project of Mass</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MASS_OOB": "look at <style=cLunarObjective>mithrix's art project of Mass!</style> ({0}%)",
+		"OBJECTIVE_MOON_BATTERY_MISSION": "Charge <style=cLunarObjective>Pillars</style> ({0}/{1})",
+		"OBJECTIVE_MOON_RELEASE_DROPSHIP": "figure out how to get this <style=cHumanObjective>shit</style> out of the forcefield",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP": "<style=cHumanObjective>GET ME OUT OF HERE</style> ({0}%)",
+		"OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "<style=cHumanObjective>GET BACK IN THE FUKCING CHARGE ZONE!</style>({0}%)",
+		"OBJECTIVE_MOON_DROPSHIP_WAIT_FOR_ALLIES": "FUKCING RUN",
+		"OBJECTIVE_FRACTION_PROGRESS_FORMAT": "{0} ({1}/{2})",
+	}
+}
