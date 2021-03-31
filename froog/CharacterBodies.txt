@@ -14,14 +14,15 @@
 	"ELITE_MODIFIER_LUNAR" : "moon friend {0}",
 	
 	"BODY_MODIFIER_DOPPELGANGER": "Umbra of {0}",
+	"BODY_MODIFIER_ECHO": "{0} ",
 
 	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "he shoot",
 	"COMMANDO_BODY_SUBTITLE" : "bing pow blam",
 	"COMMANDO_PRIMARY_NAME": "Double Tap",
-	"COMMANDO_PRIMARY_DESCRIPTION" : "Shoot twice for <style=cIsDamage>2x90% damage</style>.",
+	"COMMANDO_PRIMARY_DESCRIPTION" : "Rapidly shoot an enemy for <style=cIsDamage>100% damage</style>.",
 	"COMMANDO_SECONDARY_NAME": "Phase Round",
-	COMMANDO_SECONDARY_DESCRIPTION" : "Fire a <style=cIsDamage>piercing</style> bullet for <style=cIsDamage>300% damage</style>. Deals <style=cIsDamage>40%</style> more damage every time it passes through an enemy.",
+	"COMMANDO_SECONDARY_DESCRIPTION" : "Fire a <style=cIsDamage>piercing</style> bullet for <style=cIsDamage>300% damage</style>. Deals <style=cIsDamage>40%</style> more damage every time it passes through an enemy.",
 	"COMMANDO_SECONDARY_ALT1_NAME": "Phase Blast",
 	"COMMANDO_SECONDARY_ALT1_DESCRIPTION" : "Fire two close-range blasts that deal <style=cIsDamage>8x200% damage</style> total.",
 	"COMMANDO_UTILITY_NAME": "Tactical Dive",
@@ -31,12 +32,11 @@
 	"COMMANDO_SPECIAL_NAME": "Suppressive Fire",
 	"COMMANDO_SPECIAL_DESCRIPTION" : "<style=cIsDamage>Stunning</style>. Fire repeatedly for <style=cIsDamage>100% damage</style> per bullet. The number of shots increases with attack speed.",
 	"COMMANDO_SPECIAL_ALT1_NAME": "Frag Grenade",
-	"COMMANDO_SPECIAL_ALT1_DESCRIPTION" : "Throw a grenade that explodes for <style=cIsDamage>175% damage</style>. Deals <style=cIsDamage>4x</style> damage in the center of the explosion. Can hold up to 2.",
+	"COMMANDO_SPECIAL_ALT1_DESCRIPTION" : "Throw a grenade that explodes for <style=cIsDamage>700% damage</style>. Can hold up to 2.",
 
 	"COMMANDO_DESCRIPTION": "The Commando is a jack-of-all-trades character that is reliable in all situations of the game. <style=cSub>\r\n\r\n< ! > Double Tap is powerful at both short and long range, firing quickly and activating many item effects.\r\n\r\n< ! > Effective use of his Tactical Dive is key to dodging heavily telegraphed attacks.\r\n\r\n< ! > Suppressive Fire can be used to repeatedly stun a single enemy, or stun a group.\r\n\r\n< ! > Phase Rounds can pass through walls - use that to your advantage!\r\n<\/style>\r\n",
 	"COMMANDO_SKIN_ALT1_NAME" : "SHAW",
 	"COMMANDO_BODY_LORE": "The soldier ducked, barely getting under cover as the wall behind him exploded. His head was pounding - his muscles aching. But now was not the time for rest.\r\n\r\nHe counted the seconds. The mounted missile launchers always took a few seconds to recalibrate, and if he took advantage of that time...\r\n\r\nThrough the sounds of gunfire and chaos, he heard a small click as the enemy missile platform prepared for a second strike. Recognizing his opportunity, the soldier jumped up from behind the wall and fired his pistol, landing a shot straight between the eyes of the platform\u2019s operator. \r\n\r\nHis shoulders tightened as he braced for recoil: now was not the time for rest. Glancing down the battlefield, there were only a few more enemy platforms to take, and this front would be secured.\r\n\r\nBut before he could move to join his platoon, he received a notification on the heads-up display in his helmet.\r\n\r\n<style=cMono>YOU HAVE BEEN REASSIGNED. REPORT TO COMMAND FOR YOUR NEW ASSIGNMENT.<\/style>\r\n\r\nLooks like the time to rest wasn\u2019t coming any time soon.\r\n",
-
 
 	"MERC_BODY_NAME": "he fucks",
 	"MERC_BODY_SUBTITLE" : "the artist formerly know as sword fella",
@@ -144,7 +144,7 @@
 	"TOOLBOT_UTILITY_DESCRIPTION" : "<style=cIsUtility>Heavy</style>. Zoom forward, gaining <style=cIsUtility>200 armor</style> and <style=cIsUtility>220% movement speed</style>. Deals <style=cIsDamage>250% damage</style> to enemies.",
 	"TOOLBOT_SPECIAL_NAME": "Retool",
 	"TOOLBOT_SPECIAL_DESCRIPTION" : "Passively hold <style=cIsUtility>TWO equipment</style> at once. Activating 'Retool' switches the <style=cIsUtility>active Equipment</style> and <style=cIsDamage>MUL-T's primary attack</style>.",
-	"TOOLBOT_SPECIAL_ALT_NAME" : "BIG FUCKIN MOVES",
+	"TOOLBOT_SPECIAL_ALT_NAME" : "Power Mode",
 	"TOOLBOT_SPECIAL_ALT_DESCRIPTION" : "Enter a heavy stance, equipping both your <style=cIsDamage>primary attacks</style> at once. Gain <style=cIsUtility>200 armor</style>, but lose <style=cIsHealth>-60% movement speed</style>.",
 	"TOOLBOT_SPECIAL_ALT_QUIT_NAME" : "Cancel Power Mode",
 	"TOOLBOT_SPECIAL_ALT_QUIT_DESCRIPTION" : "Cancel Power Mode and return to normal. Beep beep!",
@@ -217,9 +217,9 @@
 	"CROCO_SPECIAL_NAME" : "Epidemic",
 	"CROCO_SPECIAL_DESCRIPTION" : "<style=cIsHealing>Poisonous</style>. Release a deadly disease that deals <style=cIsDamage>100% damage</style>. The disease spreads to up to <style=cIsDamage>20</style> targets.",
 	"CROCO_DESCRIPTION" : "Acrid is a melee-range hybrid who uses powerful poisons to melt tanky enemies. <style=cSub>\r\n\r\n< ! > Poison is an extremely powerful DoT - make sure to apply it as often as possible!\r\n\r\n< ! > Poison leaves enemies at 1 HP, so prioritize items and drones that help you finish them off.\r\n\r\n< ! > Because Acrid has no natural defenses, hit-and-run tactics can help you stay alive.\r\n\r\n< ! > Neurotoxin\u2019s low cooldown can help Acrid function as a ranged character in a pinch.\r\n</style>",
-	"CROCO_SKIN_ALT1_NAME" : "yogurt",
+	"CROCO_SKIN_ALT1_NAME" : "Albino",
 	"CROCO_BODY_LORE" : "Theoretically, the true contents of the cell were just a mess of atoms. The structure of the contents in each cell \u2013 living, weapon, whatever - was categorized, sequenced, and then turned to juice and cured into solid gems. An incredibly efficient and lossless format.\r\n\r\nAnd yet when the cell containment broke \u2013 and emergency protocols re-sequenced that mess of atoms back into the creature known as Acrid \u2013 he already knew. Maybe he was somehow conscious, in his juice-gem state. Maybe they injected him with information. Maybe he was connected to their psionic network. Maybe he just made it up.\r\n\r\nBut he knew \u2013 that the strange crustaceans that scrambled his atoms and imprisoned him here, in a place unknown \u2013 were panicking. Something had gone wrong, in a world where variables were not allowed.\r\n\r\nSomething was <i>leaking<\/i>.\r\n\r\nThey may have finally imprisoned something that could not be contained.\r\n",
-
+	
 	"CAPTAIN_BODY_NAME" : "the giant rat",
 	"CAPTAIN_BODY_SUBTITLE" : "he makes all the rules",
 	"CAPTAIN_PASSIVE_NAME" : "Defensive Microbots",
